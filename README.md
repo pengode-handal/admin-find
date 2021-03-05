@@ -5,7 +5,9 @@ Script ini berjalan dengan python3
 
 # termux
 
-pkg install python
+PKG upgrade && update
+
+pkg install git python
 
 pkg install python2
 
@@ -18,7 +20,9 @@ cd admin-find
 python oniichan.py
 
 # linux
-PASTIKAN SUDAH TERINSTALL PYTHON3, git
+Pastikan sudah terinstall PYTHON3, git
+
+apt-get upgrade && update
 
 sudo git clone https://github.com/BabwaXgura/admin-find
 
