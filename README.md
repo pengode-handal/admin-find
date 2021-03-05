@@ -5,7 +5,7 @@ Script ini berjalan dengan python3
 
 # termux
 
-PKG upgrade && update
+pkg upgrade && update
 
 pkg install git python
 
@@ -22,7 +22,7 @@ python oniichan.py
 # linux
 Pastikan sudah terinstall PYTHON3, git
 
-apt-get upgrade && update
+sudo apt-get clean && apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y
 
 sudo git clone https://github.com/BabwaXgura/admin-find
 
