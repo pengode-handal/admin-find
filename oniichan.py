@@ -1,3 +1,4 @@
+#recode?  Sangaddddd cupuuuuuuuuuuu, recode cupu kli,  ga menghargai _-
 #mengimportan bahan
 from __future__ import print_function
 import sys
